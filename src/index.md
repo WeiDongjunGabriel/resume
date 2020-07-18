@@ -59,7 +59,7 @@ download:
 - Info
 
 
-## Insternship & Projects
+## Insternships & Projects
 
 
 #### Internship
