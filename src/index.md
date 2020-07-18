@@ -31,7 +31,7 @@ download:
 
 {% raw %}
 <grid>
-<avatar><img src="https://github.com/WeiDongjunGabriel/Hexo-Resume/blob/master/src/avatar.png"></avatar>
+<avatar><img src="avatar.jpg"></avatar>
 <h1>Graduate Student, Institute of Information Engineering, Chinese Academy of Sciences</h1>
 <br>
 </grid>
