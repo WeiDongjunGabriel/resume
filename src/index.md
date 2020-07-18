@@ -5,7 +5,7 @@ lang: en
 keywords: Resume
 description: Dongjun Wei's Resume.
 # Resume Title
-resume_title: Dongjun wei's Resume
+resume_title: Dongjun Wei's Resume
 # Job Applicant Name
 name: Dongjun Wei
 # Contact
@@ -24,9 +24,9 @@ contact:
     url: 
 # PDF Download Link
 download:
-  title: Download
-  icon: fas fa-download fa-fw
-  url: 
+  title: Github
+  icon: fas fa-github fa-fw
+  url: https://github.com/WeiDongjunGabriel
 ---
 
 {% raw %}
