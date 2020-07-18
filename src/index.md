@@ -2,12 +2,12 @@
 # Language (Optional)
 lang: en
 # Site Keywords & Description
-keywords: Resume,Hexo,Resume Theme
-description: This is a cool resume theme for hexo.
+keywords: Resume
+description: Dongjun Wei's Resume.
 # Resume Title
-resume_title: Jon Snow's Resume
+resume_title: Dongjun wei's Resume
 # Job Applicant Name
-name: Jon Snow
+name: Dongjun Wei
 # Contact
 contact:
   # URL
@@ -33,9 +33,6 @@ download:
 <grid>
 <avatar><img src="https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png"></avatar>
 <h1>Resume Theme for Hexo</h1>
-<center>
-<a href='/'>English</a> | <a href='/zh-cn/'>简体中文</a>
-</center>
 <br>
 </grid>
 {% endraw %}
