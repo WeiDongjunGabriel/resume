@@ -38,12 +38,12 @@ download:
 {% endraw %}
 
 
-## <i class="fas fa-user-graduate"></i> Education
+## Education
 
 **Blank**
 
 
-## <i class="fas fa-user-tie"></i> Publications & Preprints
+## Publications & Preprints
 
 
 #### Paper 1
@@ -59,43 +59,39 @@ download:
 - Info
 
 
-## <i class="fas fa-award"></i> Insternship & Projects
+## Insternship & Projects
 
 
-### Internship
+#### Internship
 
-#### 2000/01 ~ 2019/01: Developed by XX company, team project, maintenance so far
-
-Info
-
-### Project A
-
-#### 1900/01 ~ 2000/01: Developed by XX company
+- 2000/01 ~ 2019/01: Developed by XX company, team project, maintenance so far
 
 Info
 
-### Project C
+#### Project A
 
-#### 1800/01 ~ 1900/01: Developed by XX company
+- 1900/01 ~ 2000/01: Developed by XX company
 
 Info
 
-## <i class="fab fa-github"></i> Awards
+#### Project C
+
+- 1800/01 ~ 1900/01: Developed by XX company
+
+Info
+
+## Awards
 
 
-### Award 1 
-
-#### Info
+#### Award 1 
 
 - info
 
-### Award 2
-
-#### Info
+#### Award 2
 
 - info
 
 
-## <i class="fas fa-phone-alt"></i> Addtional Information
+## Addtional Information
 
 info
