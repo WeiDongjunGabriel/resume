@@ -14,6 +14,3 @@ cdn:
 
 # robots meta tag
 robots: noindex,nofollow
-
-# the footer of your site
-copyright: '[Copyright © 2017-2020 Mr. X](https://xaoxuu.com)'
