@@ -25,7 +25,7 @@ contact:
 # PDF Download Link
 download:
   title: Github
-  icon: fas fa-github fa-fw
+  icon: fab fa-github fa-fw
   url: https://github.com/WeiDongjunGabriel
 ---
 
