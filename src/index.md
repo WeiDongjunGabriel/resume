@@ -12,16 +12,16 @@ name: Dongjun Wei
 contact:
   # URL
   - icon: fas fa-globe-europe
-    text: https://resume.js.org
-    url: https://resume.js.org
+    text: https://weidongjun.top
+    url: https://weidongjun.top
   # Email
   - icon: fas fa-envelope
-    text: your email
+    text: weidongjun@iie.ac.cn
     url:
   # Phone Number
   - icon: fas fa-phone-alt
-    text: 1xxxxxxxxxx
-    url: tel:10086
+    text: +(86) 18700881630
+    url: 
 # PDF Download Link
 download:
   title: Download
@@ -31,7 +31,7 @@ download:
 
 {% raw %}
 <grid>
-<avatar><img src="https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png"></avatar>
+<avatar><img src="https://github.com/WeiDongjunGabriel/Hexo-Resume/blob/master/src/avatar.png"></avatar>
 <h1>Resume Theme for Hexo</h1>
 <br>
 </grid>
