@@ -3,12 +3,12 @@
     --control-text-color: #777;
 }
 
-@font-face {
+/*@font-face {
     font-family: 'Courier';
     font-style: normal;
     font-weight: 400;
     src: url(https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/themes/resume/source/css/Courier.dfont) format('dfont');
-}
+}*/
 
 html {
     font-size: 12px;
