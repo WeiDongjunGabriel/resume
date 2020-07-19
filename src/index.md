@@ -39,17 +39,17 @@ download:
 
 ## Education
 
-#### Graduate Student, University of Chinese Academy of Sciences (Sept, 2018 - Present)
+### Graduate Student, University of Chinese Academy of Sciences (Sept, 2018 - Present)
 
-School/Institute: Institute of Information Engineering, Chinese Academy of Sciences <br>
-Major: Computer Science <br>
-GPA: 3.8/4.0 <br>
+- School/Institute: Institute of Information Engineering, Chinese Academy of Sciences <br>
+- Major: Computer Science <br>
+- GPA: 3.8/4.0 <br>
 
 #### Undergraduate Student, Northwest University (Sept, 2014 - July 2018)
 
-School/Institute: School of Mathematics <br>
-Major: Information and Computing Science <br>
-Weighted Average: 85/100 <br>
+- School/Institute: School of Mathematics <br>
+- Major: Information and Computing Science <br>
+- Weighted Average: 85/100 <br>
 
 ## Publications & Preprints
 
