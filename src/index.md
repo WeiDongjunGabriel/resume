@@ -53,33 +53,33 @@ download:
 
 ## PBULICATIONS & PREPRINTS
 
-#### AutoSUM: Automating Feature Extraction and Multi-user Preference Simulation for Entity Summarization
+#### AutoSUM: Automating Feature Extraction and Multi-user Preference Simulation for Entity Summarization 
 
-- **Dongjun Wei\***, Yaxin Liu\*, Fuqing Zhu, Liangjun Zang, Wei Zhou, Yijun Lu, and Songlin Hu, long paper, accepted in *PAKDD 2020*, co-work with Alibaba Cloud Computing, Co. LTD.
+- **Dongjun Wei\***, Yaxin Liu\*, Fuqing Zhu, Liangjun Zang, Wei Zhou, Yijun Lu, and Songlin Hu, long paper, accepted in PAKDD 2020, co-work with Alibaba Cloud Computing, Co. LTD.
 
 #### ESA: Entity Summarization with Attention
 
-- **Dongjun Wei**, Yaxin Liu, Fuqing Zhu, Liangjun Zang, Wei Zhou1, Jizhong Han, and Songlin Hu, short paper, accepted in *the workshop of CIKM 2019* (EYRE@CIKM)
+- **Dongjun Wei**, Yaxin Liu, Fuqing Zhu, Liangjun Zang, Wei Zhou1, Jizhong Han, and Songlin Hu, short paper, accepted in the workshop of CIKM 2019 (EYRE@CIKM)
 
-#### MPSUM: Entity Summarization with Predicate-based Matching
+#### MPSUM: Entity Summarization with Predicate-based Matching 
 
-- **Dongjun Wei**, Shiyuan Gao, Yaxin Liu, Zhibing Liu, and Longtao Hang, short paper, accepted in the *workshop of CIKM 2018* (EYRE@CIKM)
+- **Dongjun Wei**, Shiyuan Gao, Yaxin Liu, Zhibing Liu, and Longtao Hang, short paper, accepted in the workshop of CIKM 2018 (EYRE@CIKM)
 
 #### TransSent: Towards Generation of Structured Sentences with Discourse Marker
 
-- Xing Wu\*, **Dongjun Wei\***, Yaxin Liu, Liangjun Zang, Songlin Hu, long paper, under review in the *COLING 2020*
+- Xing Wu\*, **Dongjun Wei\***, Yaxin Liu, Liangjun Zang, Songlin Hu, long paper, under review in the COLING 2020
 
 #### Attention-based Contextual Augmentation for Sentence Classification
 
-- **Dongjun Wei**, Yaxin Liu, Liangjun Zang, Songlin Hu, short paper, *arxiv preprint*
+- **Dongjun Wei**, Yaxin Liu, Liangjun Zang, Songlin Hu, short paper, arxiv preprint
 
-\* *Equal Contirbution*
+\* *Equal Contribution*
 
-## Insternships & Projects
+## INTERNSHIPS & PROJECTS
 
 #### Intern, Luna Algorithm Group, NetEase Corporation (Nov 2018 – Dec 2019)
 
-- Participated in the construction of dialog system
+- Participated in the construction of dialog systems
 -	Maintained knowledge Graphs and written queries 
 - Assisted with the online deployment of Youdao dictionary
 
@@ -97,6 +97,12 @@ download:
 #### CET4 & CET6 (201X)
 
 
-## Addtional Information
+## ADDITIONAL INFORMATION
 
-info
+#### Languages: Mandarin (Native), English (Proficient)
+
+#### Computer Skills: Python (Proficient), Pytorch (Proficient), Tensorflow (Basic) and Matlab (Basic)
+
+#### Research Interests: Natural Language Processing and Knowledge Graphs 
+
+#### Hobbies: Swimming, Reading and Minecraft
