@@ -105,9 +105,12 @@ import:
   - "<meta name='msapplication-TileColor' content='#1BC3FB'>"
   - "<meta name='msapplication-config' content='#2d89ef'>"
   link:
-  - "<link rel='shortcut icon' type='image/png' href='https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/src/favicon.png'>"
-  - "<link rel='icon' type='image/png' sizes='32x32' href='https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/src/favicon.png'>"
-  - "<link rel='apple-touch-icon' type='image/png' sizes='180x180' href='https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/src/favicon.png'>"
+  #- "<link rel='shortcut icon' type='image/png' href='https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/src/favicon.png'>"
+  #- "<link rel='icon' type='image/png' sizes='32x32' href='https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/src/favicon.png'>"
+  #- "<link rel='apple-touch-icon' type='image/png' sizes='180x180' href='https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/src/favicon.png'>"
+  - "<link rel='shortcut icon' type='image/jpeg' href='https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/src/favicon.jpg'>"
+  - "<link rel='icon' type='image/jpeg' sizes='32x32' href='https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/src/favicon.jpg'>"
+  - "<link rel='apple-touch-icon' type='image/jpeg' sizes='180x180' href='https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/src/favicon.jpg'>"
   #- "<link rel='mask-icon' color='#1BC3FB' href='https://cdn.jsdelivr.net/gh/none.svg'>"
   #- "<link rel='manifest' href='https://cdn.jsdelivr.net/gh/none.webmanifest'>"
   # script:
