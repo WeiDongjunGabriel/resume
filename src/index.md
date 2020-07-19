@@ -32,39 +32,48 @@ download:
 {% raw %}
 <grid>
 <avatar><img src="https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/src/avatar.jpg"></avatar>
-<h1>University of Chinese Academy of Sciences</h1>
+<h1>Graduate Student, University of Chinese Academy of Sciences</h1>
 <br>
 </grid>
 {% endraw %}
 
-## Education
+## EDUCATION BACKGROUND
 
-### Graduate Student, University of Chinese Academy of Sciences (Sept, 2018 - Present)
+#### Graduate Student, University of Chinese Academy of Sciences (Sept, 2018 - Present)
 
-- School/Institute: Institute of Information Engineering, Chinese Academy of Sciences <br>
-- Major: Computer Science <br>
-- GPA: 3.8/4.0 <br>
+- School/Institute: Institute of Information Engineering, Chinese Academy of Sciences
+- Major: Computer Science 
+- GPA: 3.8/4.0 
 
 #### Undergraduate Student, Northwest University (Sept, 2014 - July 2018)
 
-- School/Institute: School of Mathematics <br>
-- Major: Information and Computing Science <br>
-- Weighted Average: 85/100 <br>
+- School/Institute: School of Mathematics 
+- Major: Information and Computing Science 
+- Weighted Average: 85/100 
 
-## Publications & Preprints
+## PBULICATIONS & PREPRINTS
 
-#### Paper 1
+#### AutoSUM: Automating Feature Extraction and Multi-user Preference Simulation for Entity Summarization
 
-- Info
+- **Dongjun Wei\***, Yaxin Liu*, Fuqing Zhu, Liangjun Zang, Wei Zhou, Yijun Lu, and Songlin Hu, long paper, accepted in PAKDD 2020, co-work with Alibaba Cloud Computing, Co. LTD.
 
-#### Paper 2
+#### ESA: Entity Summarization with Attention
 
-- Info
+- **Dongjun Wei**, Yaxin Liu, Fuqing Zhu, Liangjun Zang, Wei Zhou1, Jizhong Han, and Songlin Hu, short paper, accepted in the workshop of CIKM 2019 (EYRE@CIKM)
 
-#### Paper
+#### MPSUM: Entity Summarization with Predicate-based Matching
 
-- Info
+- **Dongjun Wei**, Shiyuan Gao, Yaxin Liu, Zhibing Liu, and Longtao Hang, short paper, accepted in the workshop of CIKM 2018 (EYRE@CIKM)
 
+#### TransSent: Towards Generation of Structured Sentences with Discourse Marker
+
+- Xing Wu*, **Dongjun Wei\***, Yaxin Liu, Liangjun Zang, Songlin Hu, long paper, under review in the COLING 2020
+
+#### Attention-based Contextual Augmentation for Sentence Classification
+
+- **Dongjun Wei**, Yaxin Liu, Liangjun Zang, Songlin Hu, short paper, arxiv preprint
+
+\* Equal Contirbution 
 
 ## Insternships & Projects
 
