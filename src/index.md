@@ -6,7 +6,7 @@ keywords: Resume
 description: Dongjun Wei's Resume.
 # Resume Title
 resume_title: Dongjun Wei's Resume
-# Job Applicant Name
+# Name
 name: Dongjun Wei
 # Contact
 contact:
@@ -95,10 +95,10 @@ download:
 
 ## ADDITIONAL INFORMATION
 
-#### Languages: Mandarin (Native), English (Proficient)
+**Languages**: Mandarin (Native), English (Proficient)
 
-#### Computer Skills: Python (Proficient), Pytorch (Proficient), Tensorflow (Basic) and Matlab (Basic)
+**Computer Skills**: Python (Proficient), Pytorch (Proficient), Tensorflow (Basic) and Matlab (Basic)
 
-#### Research Interests: Natural Language Processing and Knowledge Graphs 
+**Research Interests**: Natural Language Processing and Knowledge Graphs 
 
-#### Hobbies: Swimming, Reading and Minecraft
+**Hobbies**: Swimming, Reading and Minecraft
