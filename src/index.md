@@ -12,8 +12,8 @@ name: Dongjun Wei
 contact:
   # URL
   - icon: fas fa-globe-europe
-    text: https://weidongjun.top
-    url: https://weidongjun.top
+    text: weidongjungabriel.github.io/resume
+    url: https://weidongjungabriel.github.io/resume/
   # Email
   - icon: fas fa-envelope
     text: weidongjun@iie.ac.cn
@@ -24,7 +24,7 @@ contact:
     url: 
 # PDF Download Link
 download:
-  title: Github
+  title: My Github
   icon: fab fa-github fa-fw
   url: https://github.com/WeiDongjunGabriel
 ---
@@ -32,7 +32,8 @@ download:
 {% raw %}
 <grid>
 <avatar><img src="https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/src/avatar.jpg"></avatar>
-<h1>Graduate Student, Institute of Information Engineering, Chinese Academy of Sciences</h1>
+<h1>Dongjun Wei</h1>
+<h2>Graduate Student, University of Chinese Academy of Sciences</h2>
 <br>
 </grid>
 {% endraw %}
