@@ -12,8 +12,8 @@ name: Dongjun Wei
 contact:
   # URL
   - icon: fas fa-globe-europe
-    text: weidongjungabriel.github.io/resume
-    url: https://weidongjungabriel.github.io/resume/
+    text: Chinese Academy of Sciences, Beijing, China
+    url: https://www.ucas.ac.cn
   # Email
   - icon: fas fa-envelope
     text: weidongjun@iie.ac.cn
