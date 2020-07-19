@@ -10,10 +10,6 @@ resume_title: Dongjun Wei's Resume
 name: Dongjun Wei
 # Contact
 contact:
-  # URL
-  - icon: fas fa-globe-europe
-    text: Chinese Academy of Sciences, Beijing, China
-    url: https://www.ucas.ac.cn
   # Email
   - icon: fas fa-envelope
     text: weidongjun@iie.ac.cn
@@ -25,7 +21,7 @@ contact:
 # PDF Download Link
 download:
   title: My Github
-  icon: fab fa-github fa-fw
+  icon: fab fa-github fa-github
   url: https://github.com/WeiDongjunGabriel
 ---
 
