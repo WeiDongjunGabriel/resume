@@ -37,7 +37,7 @@ download:
 </grid>
 {% endraw %}
 
-## EDUCATIONAL BACKGROUND
+## Educational Background
 
 #### Graduate Student, University of Chinese Academy of Sciences (Sept 2018 - Present)
 
@@ -51,7 +51,7 @@ download:
 - **Major**: Information and Computing Science 
 - **Weighted Average**: 85/100 
 
-## PBULICATIONS & PREPRINTS
+## Publications & Preprints
 
 #### AutoSUM: Automating Feature Extraction and Multi-user Preference Simulation for Entity Summarization 
 
@@ -75,7 +75,7 @@ download:
 
 \* Equal Contribution
 
-## INTERNSHIPS & PROJECTS
+## Interships & Projects
 
 #### Intern, Luna Algorithm Group, NetEase Corporation (Nov 2018 – Dec 2019)
 
@@ -88,7 +88,7 @@ download:
 - Generated search reports on knowledge graphs
 - Worked on SPARQL development and entity summarization task
 
-## AWARDS & CERTIFICATIONS 
+## Awards & Certifications 
 
 **Excellent Students Award**, University of Chinese Academy of Science (2018-2019)                               
 
@@ -97,7 +97,7 @@ download:
 **CET4 & CET6** (201X)
 
 
-## ADDITIONAL INFORMATION
+## Additional Information
 
 **Languages**: Mandarin (Native), English (Proficient)
 
