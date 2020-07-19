@@ -18,11 +18,15 @@ contact:
   - icon: fas fa-phone-alt
     text: +(86) 18700881630
     url: 
+  # Github
+  - icon: fab fa-github
+    text: Github
+    url: github.com/WeiDongjunGabriel
 # PDF Download Link
 download:
-  title: My Github
-  icon: fab fa-github fa-github
-  url: https://github.com/WeiDongjunGabriel
+  title: Download
+  icon: fas fa-download fa-fw
+  url: https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/materials/CV.pdf
 ---
 
 {% raw %}
