@@ -69,7 +69,7 @@ download:
 
 - **Dongjun Wei**, Yaxin Liu, Liangjun Zang, Songlin Hu, short paper, arxiv preprint
 
-\* *Equal Contribution*
+\* Equal Contribution
 
 ## INTERNSHIPS & PROJECTS
 
@@ -86,11 +86,11 @@ download:
 
 ## AWARDS & CERTIFICATIONS 
 
-#### Excellent Students Award, University of Chinese Academy of Science (2018-2019)                               
+**Excellent Students Award**, University of Chinese Academy of Science (2018-2019)                               
 
-#### Third-class Scholarship, Northwest University (2017)                                                                         
+**Third-class Scholarship**, Northwest University (2017)                                                                         
 
-#### CET4 & CET6 (201X)
+**CET4 & CET6** (201X)
 
 
 ## ADDITIONAL INFORMATION
