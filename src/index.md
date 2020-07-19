@@ -32,21 +32,26 @@ download:
 {% raw %}
 <grid>
 <avatar><img src="https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/src/avatar.jpg"></avatar>
-<h1>Dongjun Wei</h1>
-<br>
-<h1>Graduate Student, University of Chinese Academy of Sciences</h1>
+<h1>University of Chinese Academy of Sciences</h1>
 <br>
 </grid>
 {% endraw %}
 
-
 ## Education
 
-**Blank**
+#### Graduate Student, University of Chinese Academy of Sciences (Sept, 2018 - Present)
 
+School/Institute: Institute of Information Engineering, Chinese Academy of Sciences <br>
+Major: Computer Science <br>
+GPA: 3.8/4.0 <br>
+
+#### Undergraduate Student, Northwest University (Sept, 2014 - July 2018)
+
+School/Institute: School of Mathematics <br>
+Major: Information and Computing Science <br>
+Weighted Average: 85/100 <br>
 
 ## Publications & Preprints
-
 
 #### Paper 1
 
