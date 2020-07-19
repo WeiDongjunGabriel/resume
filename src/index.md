@@ -32,7 +32,7 @@ download:
 {% raw %}
 <grid>
 <avatar><img src="https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/src/avatar.jpg"></avatar>
-<h1>Graduate Student, University of Chinese Academy of Sciences</h1>
+<h1>Graduate Student, Institute of Information Engineering, Chinese Academy of Sciences</h1>
 <br>
 </grid>
 {% endraw %}
