@@ -20,8 +20,8 @@ contact:
     url: 
   # Github
   - icon: fab fa-github
-    text: Github
-    url: github.com/WeiDongjunGabriel
+    text: github.com/WeiDongjunGabriel
+    url: https://github.com/WeiDongjunGabriel
 # PDF Download Link
 download:
   title: Download
@@ -33,7 +33,6 @@ download:
 <grid>
 <avatar><img src="https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/src/avatar.jpg"></avatar>
 <h1>Graduate Student, University of Chinese Academy of Sciences</h1>
-<br>
 </grid>
 {% endraw %}
 
