@@ -39,13 +39,13 @@ download:
 
 ## EDUCATION BACKGROUND
 
-#### Graduate Student, University of Chinese Academy of Sciences (Sept, 2018 - Present)
+#### Graduate Student, University of Chinese Academy of Sciences (Sept 2018 - Present)
 
 - School/Institute: Institute of Information Engineering, Chinese Academy of Sciences
 - Major: Computer Science 
 - GPA: 3.8/4.0 
 
-#### Undergraduate Student, Northwest University (Sept, 2014 - July 2018)
+#### Undergraduate Student, Northwest University (Sept 2014 - July 2018)
 
 - School/Institute: School of Mathematics 
 - Major: Information and Computing Science 
@@ -55,57 +55,46 @@ download:
 
 #### AutoSUM: Automating Feature Extraction and Multi-user Preference Simulation for Entity Summarization
 
-- **Dongjun Wei\***, Yaxin Liu*, Fuqing Zhu, Liangjun Zang, Wei Zhou, Yijun Lu, and Songlin Hu, long paper, accepted in PAKDD 2020, co-work with Alibaba Cloud Computing, Co. LTD.
+- **Dongjun Wei\***, Yaxin Liu\*, Fuqing Zhu, Liangjun Zang, Wei Zhou, Yijun Lu, and Songlin Hu, long paper, accepted in *PAKDD 2020*, co-work with Alibaba Cloud Computing, Co. LTD.
 
 #### ESA: Entity Summarization with Attention
 
-- **Dongjun Wei**, Yaxin Liu, Fuqing Zhu, Liangjun Zang, Wei Zhou1, Jizhong Han, and Songlin Hu, short paper, accepted in the workshop of CIKM 2019 (EYRE@CIKM)
+- **Dongjun Wei**, Yaxin Liu, Fuqing Zhu, Liangjun Zang, Wei Zhou1, Jizhong Han, and Songlin Hu, short paper, accepted in *the workshop of CIKM 2019* (EYRE@CIKM)
 
 #### MPSUM: Entity Summarization with Predicate-based Matching
 
-- **Dongjun Wei**, Shiyuan Gao, Yaxin Liu, Zhibing Liu, and Longtao Hang, short paper, accepted in the workshop of CIKM 2018 (EYRE@CIKM)
+- **Dongjun Wei**, Shiyuan Gao, Yaxin Liu, Zhibing Liu, and Longtao Hang, short paper, accepted in the *workshop of CIKM 2018* (EYRE@CIKM)
 
 #### TransSent: Towards Generation of Structured Sentences with Discourse Marker
 
-- Xing Wu*, **Dongjun Wei\***, Yaxin Liu, Liangjun Zang, Songlin Hu, long paper, under review in the COLING 2020
+- Xing Wu\*, **Dongjun Wei\***, Yaxin Liu, Liangjun Zang, Songlin Hu, long paper, under review in the *COLING 2020*
 
 #### Attention-based Contextual Augmentation for Sentence Classification
 
-- **Dongjun Wei**, Yaxin Liu, Liangjun Zang, Songlin Hu, short paper, arxiv preprint
+- **Dongjun Wei**, Yaxin Liu, Liangjun Zang, Songlin Hu, short paper, *arxiv preprint*
 
-\* Equal Contirbution 
+\* *Equal Contirbution*
 
 ## Insternships & Projects
 
+#### Intern, Luna Algorithm Group, NetEase Corporation (Nov 2018 – Dec 2019)
 
-#### Internship
+- Participated in the construction of dialog system
+-	Maintained knowledge Graphs and written queries 
+- Assisted with the online deployment of Youdao dictionary
 
-- 2000/01 ~ 2019/01: Developed by XX company, team project, maintenance so far
+#### Participant,  National Natural Science Foundation of China, No. 61702500  (May 2018 – July 2018)
 
-Info
+- Generated search reports on knowledge graphs
+- Worked on SPARQL development and entity summarization task
 
-#### Project A
+## AWARDS & CERTIFICATIONS 
 
-- 1900/01 ~ 2000/01: Developed by XX company
+#### Excellent Students Award, University of Chinese Academy of Science (2018-2019)                               
 
-Info
+#### Third-class Scholarship, Northwest University (2017)                                                                         
 
-#### Project C
-
-- 1800/01 ~ 1900/01: Developed by XX company
-
-Info
-
-## Awards
-
-
-#### Award 1 
-
-- info
-
-#### Award 2
-
-- info
+#### CET4 & CET6 (201X)
 
 
 ## Addtional Information
