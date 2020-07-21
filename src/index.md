@@ -13,7 +13,7 @@ contact:
   # Email
   - icon: fas fa-envelope
     text: weidongjun@iie.ac.cn
-    url:
+    url: weidongjun@iie.ac.cn
   # Phone Number
   - icon: fas fa-phone-alt
     text: +(86) 18700881630
@@ -77,7 +77,7 @@ download:
 
 ## Interships & Projects
 
-#### Intern, Luna Algorithm Group, NetEase Corporation (Nov 2018 – Dec 2019)
+#### Intern, Luna Algorithm Group, NetEase Corporation (Dec 2019 – Feb 2019)
 
 - Participated in the construction of dialog systems
 -	Maintained knowledge Graphs and written queries 
