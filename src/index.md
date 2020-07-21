@@ -13,7 +13,7 @@ contact:
   # Email
   - icon: fas fa-envelope
     text: weidongjun@iie.ac.cn
-    url: weidongjun@iie.ac.cn
+    url: 
   # Phone Number
   - icon: fas fa-phone-alt
     text: +(86) 18700881630
