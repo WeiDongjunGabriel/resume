@@ -26,7 +26,7 @@ contact:
 download:
   title: Download
   icon: fas fa-download fa-fw
-  url: https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/materials/CV.pdf
+  url: https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/materials/CV-2.pdf
 ---
 
 {% raw %}
