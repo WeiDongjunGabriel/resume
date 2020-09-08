@@ -42,7 +42,7 @@ download:
 #### Graduate Student, University of Chinese Academy of Sciences (Sept 2018 - Present)
 
 - **School/Institute**: Institute of Information Engineering (CAS)
-- **Major**: Computer Science 
+- **Major**: Computer Science (Cyber Security)
 - **GPA**: 3.82/4.0 
 
 #### Undergraduate Student, Northwest University (Sept 2014 - July 2018)
