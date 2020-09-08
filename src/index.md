@@ -31,7 +31,7 @@ download:
 
 {% raw %}
 <grid>
-<avatar><img src="https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/src/avatar-blue-2.JPG"></avatar>
+<avatar><img src="https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/src/avatar-blue-2.jpg"></avatar>
 <h1>Graduate Student, Institute of Information Engineering, Chinese Academy of Sciences</h1>
 <br>
 </grid>
