@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/avatar-blue-2.jpg","57cd82cf1f0537bd1cac190a5b71587a"],["/avatar-blue-3.jpg","df5c0b71d23bc144d6c4631b999d79fa"],["/avatar-blue-4.jpg","e6dc33e21bd6aba39b99312ec4fef096"],["/avatar.jpg","7286d66787dbb03cc8eb3a33d2c35161"],["/css/page.css","cd5ca9ac172a3b66201d4312492a5840"],["/css/style.min.css","4e24d76f09a7bc5616f9f58cd6a63c47"],["/css/vue-pdf.css","1da002040a79305451bab39f30b37567"],["/favicon.jpg","9a849f0b9ef2bca6e696bfbcd13c5366"],["/favicon.png","9a849f0b9ef2bca6e696bfbcd13c5366"],["/index.html","29d04911bab271ce980ae86f5d37f7e5"],["/js/common.js","748b78854064e842c09d1b9605209bba"],["/js/css.escape.js","a2185e4074b2acf55b190d49300dc626"],["/js/smooth-scroll.min.js","53a7fcc785e987d5ed08302f36de6653"]];
+var precacheConfig = [["/avatar-blue-2.jpg","57cd82cf1f0537bd1cac190a5b71587a"],["/avatar-blue-3.jpg","df5c0b71d23bc144d6c4631b999d79fa"],["/avatar-blue-4.jpg","e6dc33e21bd6aba39b99312ec4fef096"],["/avatar.jpg","7286d66787dbb03cc8eb3a33d2c35161"],["/css/page.css","cd5ca9ac172a3b66201d4312492a5840"],["/css/style.min.css","4e24d76f09a7bc5616f9f58cd6a63c47"],["/css/vue-pdf.css","1da002040a79305451bab39f30b37567"],["/favicon.jpg","9a849f0b9ef2bca6e696bfbcd13c5366"],["/favicon.png","9a849f0b9ef2bca6e696bfbcd13c5366"],["/index.html","d2a4128cadd06c384641a47ad9a2a9b3"],["/js/common.js","748b78854064e842c09d1b9605209bba"],["/js/css.escape.js","a2185e4074b2acf55b190d49300dc626"],["/js/smooth-scroll.min.js","53a7fcc785e987d5ed08302f36de6653"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
