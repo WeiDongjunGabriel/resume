@@ -103,6 +103,6 @@ download:
 
 **Computer Skills**: Python (Proficient), Pytorch (Proficient), Tensorflow (Basic) and Matlab (Basic)
 
-**Research Interests**: Natural Language Processing and Knowledge Graphs 
+**Research Interests**: Natural Language Processing, Knowledge Graphs and Financial Engineering
 
 **Hobbies**: Swimming, Reading and Minecraft
