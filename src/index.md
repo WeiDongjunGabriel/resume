@@ -51,7 +51,7 @@ download:
 - **Major**: Information and Computing Science 
 - **Weighted Average**: 85/100 
 
-## Publications & Preprints \[[Google Scholar] (https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F789q-hFhX-GZVpx12cZROnRZihhZlIqAN8rqczCl8akeJ0Hv8_D2XEHupWQk_UOTpHbr6GREBcbXCMxiA9Bol6VsrE7A&user=j8KINDIAAAAJ)\]
+## Publications & Preprints \[[Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F789q-hFhX-GZVpx12cZROnRZihhZlIqAN8rqczCl8akeJ0Hv8_D2XEHupWQk_UOTpHbr6GREBcbXCMxiA9Bol6VsrE7A&user=j8KINDIAAAAJ)\]
 
 \* Equal Contribution
 
