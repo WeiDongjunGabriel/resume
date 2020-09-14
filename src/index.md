@@ -57,7 +57,7 @@ download:
 
 #### AutoSUM: Automating Feature Extraction and Multi-user Preference Simulation for Entity Summarization 
 
-- **Dongjun Wei\***, Yaxin Liu\*, Fuqing Zhu, Liangjun Zang, Wei Zhou, Yijun Lu, and Songlin Hu, long paper, accepted in PAKDD 2020, co-work with Alibaba (acceptance rate: 21.5%). \[[Paper](https://arxiv.org/pdf/2005.11888.pdf)\] \[[Slide](https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/materials/AutoSUM-slides.pdf)\]
+- **Dongjun Wei\***, Yaxin Liu\*, Fuqing Zhu, Liangjun Zang, Wei Zhou, Yijun Lu, and Songlin Hu, long paper, accepted in PAKDD 2020, co-work with Alibaba. (acceptance rate: 21.5%) \[[Paper](https://arxiv.org/pdf/2005.11888.pdf)\] \[[Slide](https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/materials/AutoSUM-slides.pdf)\]
 
 #### ESA: Entity Summarization with Attention
 
