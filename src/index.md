@@ -63,7 +63,7 @@ download:
 
 #### ESA: Entity Summarization with Attention
 
-- **Dongjun Wei**, Yaxin Liu, Fuqing Zhu, Liangjun Zang, Wei Zhou, Jizhong Han, and Songlin Hu, short paper, accepted in the workshop on entity retrieval of CIKM 2019. \[[Paper](https://arxiv.org/pdf/1905.10625.pdf)\] \[[Slide](https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/materials/ESA-slides.pdf)\]
+- **Dongjun Wei\***, Yaxin Liu\*, Fuqing Zhu, Liangjun Zang, Wei Zhou, Jizhong Han, and Songlin Hu, short paper, accepted in the workshop on entity retrieval of CIKM 2019. \[[Paper](https://arxiv.org/pdf/1905.10625.pdf)\] \[[Slide](https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/materials/ESA-slides.pdf)\]
 
 #### MPSUM: Entity Summarization with Predicate-based Matching 
 
