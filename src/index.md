@@ -59,15 +59,15 @@ download:
 
 #### AutoSUM: Automating Feature Extraction and Multi-user Preference Simulation for Entity Summarization 
 
-- **Dongjun Wei\***, Yaxin Liu\*, Fuqing Zhu, Liangjun Zang, Wei Zhou, Yijun Lu, and Songlin Hu, long paper, accepted in PAKDD 2020, co-work with Alibaba. (acceptance rate: 21.5%) \[[Paper](https://arxiv.org/pdf/2005.11888.pdf)\] \[[Slide](https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/materials/AutoSUM-slides.pdf)\]
+- **Dongjun Wei\***, Yaxin Liu\*, Fuqing Zhu, Liangjun Zang, Wei Zhou, Yijun Lu, and Songlin Hu, long paper, accepted in PAKDD 2020, co-work with Alibaba. (acceptance rate: 21.5%) \[[Paper](https://arxiv.org/pdf/2005.11888.pdf)\] \[[Code](https://github.com/WeiDongjunGabriel/AutoSUM)\] \[[Slide](https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/materials/AutoSUM-slides.pdf)\]
 
 #### ESA: Entity Summarization with Attention
 
-- **Dongjun Wei\***, Yaxin Liu\*, Fuqing Zhu, Liangjun Zang, Wei Zhou, Jizhong Han, and Songlin Hu, short paper, accepted in the workshop on entity retrieval of CIKM 2019. \[[Paper](https://arxiv.org/pdf/1905.10625.pdf)\] \[[Slide](https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/materials/ESA-slides.pdf)\]
+- **Dongjun Wei\***, Yaxin Liu\*, Fuqing Zhu, Liangjun Zang, Wei Zhou, Jizhong Han, and Songlin Hu, short paper, accepted in the workshop on entity retrieval of CIKM 2019. \[[Paper](https://arxiv.org/pdf/1905.10625.pdf)\] \[[Code](https://github.com/WeiDongjunGabriel/ESA)\] \[[Slide](https://cdn.jsdelivr.net/gh/weidongjungabriel/resume/materials/ESA-slides.pdf)\]
 
 #### MPSUM: Entity Summarization with Predicate-based Matching 
 
-- **Dongjun Wei**, Shiyuan Gao, Yaxin Liu, Zhibing Liu, and Longtao Hang, short paper, accepted in the workshop on entity retrieval of CIKM 2018. \[[Paper](https://arxiv.org/pdf/2005.11992.pdf)\]
+- **Dongjun Wei**, Shiyuan Gao, Yaxin Liu, Zhibing Liu, and Longtao Hang, short paper, accepted in the workshop on entity retrieval of CIKM 2018. \[[Paper](https://arxiv.org/pdf/2005.11992.pdf)\] \[[Code](https://github.com/WeiDongjunGabriel/MPSUM)\]
 
 #### TransSent: Towards Generation of Structured Sentences with Discourse Marker
 
